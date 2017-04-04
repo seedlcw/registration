@@ -7,9 +7,9 @@ var threeDayEg ="https://goo.gl/foHBhC";
 
         if (eClass.value==1) {
             // alert("udn.com")
-            loc=threeDayForStudent;
+            loc=threeDayEg;
         // 二十日課
         } else {
-            loc=twentyDayForStudent;
+            loc=twentyDayEg;
         }
 }
