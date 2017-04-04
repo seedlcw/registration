@@ -3,12 +3,12 @@ var eType = document.getElementById("applyType");
 var eClass = document.getElementById("applyClass");
 var applyForm = document.getElementById("formId");
 var loc;
-var threeDayForStudent ="https://udn.com";
-var twentyDayForStudent ="https://docs.google.com/forms/d/e/1FAIpQLSewBJMv-TFKQnOiiNupjF4GJvJmv-3QtUuC8w7SyyuItQ8ZMg/viewform";
-var threeDayForVolunteer ="https://www.facebook.com/";
-var twentyDayForVolunteer ="https://www.youtube.com/";
-// var twentyDayEg ="";
-// var threeDayEg ="";
+var twentyDayForStudent ="https://goo.gl/pTsblb";
+var threeDayForStudent ="https://goo.gl/U6tVL1";
+var twentyDayForVolunteer ="https://goo.gl/ngtaqA";
+var threeDayForVolunteer ="https://goo.gl/gKZunk";
+// var twentyDayEg ="https://goo.gl/c8GwbW";
+// var threeDayEg ="https://goo.gl/foHBhC";
 
 // 學生
     if (eType.value==1) {
